@@ -1,6 +1,5 @@
 # Shape-Detector-Assembly
 Computer Architecture – Practical Project Sheet - Shape Detector
-- Code by C++
 - Documentaion contains:
   - Procedures description that contains:
     - Task accomplished by the procedure.
